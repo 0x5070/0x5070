@@ -1,22 +1,16 @@
-0x5070
+# 0x5070
 
-Security Researcher & Python Developer
-🛠️ Focus
+**Security Researcher & Python/Bash Developer**
 
-    Offensive Security: Penetration testing and exploit PoCs.
+### 🛠️ Focus
+* **Offensive Security:** Penetration testing and exploit PoCs.
+* **Tooling:** Custom security tools and automation.
+* **Home Server:** Building a home server from scratch (from hardware selection to a headless Debian minimal installation).
 
-    Tooling: Custom security tools and automation in Python.
+### 📊 Stats & Tools
+* **Languages:** Python, Bash, and a bit of Go.
+* **Platforms:** TryHackMe (Top 3%).
+* **OS:** Debian Linux / Parrot OS.
 
-    Low-level: Interest in memory structures and system internals.
-
-📊 Stats & Tools
-
-    Languages: Python, Bash, C.
-
-    Platforms: Linux, TryHackMe (Top X%).
-
-    OS: Debian Linux / Parrot OS.
-
-📩 Contact
-
-    Email: germansoto@protonmail.com
+### 📩 Contact
+* **Email:** germansoto@protonmail.com
