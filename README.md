@@ -1,16 +1,22 @@
-## Hi there 👋
+0x5070
 
-<!--
-**0x5070/0x5070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Researcher & Python Developer
+🛠️ Focus
 
-Here are some ideas to get you started:
+    Offensive Security: Penetration testing and exploit PoCs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Tooling: Custom security tools and automation in Python.
+
+    Low-level: Interest in memory structures and system internals.
+
+📊 Stats & Tools
+
+    Languages: Python, Bash, C.
+
+    Platforms: Linux, TryHackMe (Top X%).
+
+    OS: Arch Linux / Parrot OS.
+
+📩 Contact
+
+    Email: germansoto@protonmail.com
