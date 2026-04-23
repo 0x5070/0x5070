@@ -27,3 +27,5 @@
     <td><a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a></td>
   </tr>
 </table>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x5070&show_icons=true&locale=en&layout=compact" alt="0x5070" /></p>
