@@ -15,7 +15,7 @@ Security Researcher & Python Developer
 
     Platforms: Linux, TryHackMe (Top X%).
 
-    OS: Arch Linux / Parrot OS.
+    OS: Debian Linux / Parrot OS.
 
 📩 Contact
 
