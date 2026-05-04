@@ -8,8 +8,8 @@
 * **Home Server:** Building a home server from scratch (from hardware selection to a headless Debian minimal installation).
 
 ### 📊 Stats & Tools
-* **Languages:** Python, Bash, and a bit of Go.
-* **Platforms:** TryHackMe (Top 3%).
+* **Languages:** Python, Bash, and a bit of Nim.
+* **Platforms:** TryHackMe (Top 2%).
 * **OS:** Debian Linux / Parrot OS.
 
 ### 📩 Contact
