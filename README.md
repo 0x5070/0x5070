@@ -9,7 +9,7 @@
 
 ### 📊 Stats & Tools
 * **Languages:** Python, Bash, and a bit of Nim.
-* **Platforms:** TryHackMe (Top 2%).
+* **Platforms:** TryHackMe (Top 1%).
 * **OS:** Debian Linux / Parrot OS.
 
 ### 📩 Contact
