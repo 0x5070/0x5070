@@ -8,17 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=0x5070&label=Profile%20views&color=0e75b6&style=flat" alt="0x5070" />
 </p>
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/0x5070/Shodan-like-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0x5070&repo=Shodan-like-scanner&bg_color=08101B&title_color=58A6FF&text_color=F3F5F7&icon_color=DB9E48&border_color=343D46&hide_border=true" alt="Shodan-like-scanner" /></a>
-  <a href="https://github.com/0x5070/PyFile-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0x5070&repo=PyFile-Analyzer&bg_color=08101B&title_color=58A6FF&text_color=F3F5F7&icon_color=DB9E48&border_color=343D46&hide_border=true" alt="PyFile-Analyzer" /></a>
-</p>
-
 ## Connect with me
 
 <p align="left">
-  <a href="mailto:germansoto@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:germansoto@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## Tech Stack
@@ -28,11 +21,6 @@
 </p>
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0x5070&show_icons=true&bg_color=08101B&title_color=58A6FF&text_color=F3F5F7&icon_color=DB9E48&border_color=343D46&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x5070&layout=compact&bg_color=08101B&title_color=58A6FF&text_color=F3F5F7&icon_color=DB9E48&border_color=343D46&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=0x5070&background=08101B&border=343D46&stroke=343D46&ring=DB9E48&fire=DB9E48&currStreakLabel=DB9E48&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=F3F5F7&dates=F3F5F7&hide_border=true" alt="GitHub streak" />
