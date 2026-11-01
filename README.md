@@ -1,31 +1,77 @@
 # 0x5070
 
-**Security Researcher & Python/Bash Developer**
+**Security Researcher | Python & Bash Developer**
 
-### 🛠️ Focus
-* **Offensive Security:** Penetration testing and exploit PoCs.
-* **Tooling:** Custom security tools and automation.
-* **Home Server:** Building a home server from scratch (from hardware selection to a headless Debian minimal installation).
+---
 
-### 📊 Stats & Tools
-* **Languages:** Python, Bash, and a bit of Nim.
-* **Platforms:** TryHackMe (Top 1%).
-* **OS:** Debian Linux / Parrot OS.
+## 🇪🇸 Español
 
-### 📩 Contact
-* **Email:** germansoto@protonmail.com
+### Sobre mí
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://mariadb.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/></a></td>
-    <td><a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a></td>
-  </tr>
-</table>
+Investigador de ciberseguridad y desarrollador centrado en Python, Bash y herramientas de automatización.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x5070&show_icons=true&locale=en&layout=compact" alt="0x5070" /></p>
+### Áreas de interés
+
+- **Seguridad ofensiva:** Investigación de seguridad y pruebas de penetración autorizadas.
+- **Desarrollo:** Herramientas personalizadas y automatización.
+- **Infraestructura:** Servidores domésticos y administración de sistemas Linux.
+
+### Tecnologías
+
+- Lenguajes: Python, Bash y Nim.
+- Sistemas: Debian Linux y Parrot OS.
+- Plataformas: TryHackMe.
+- Herramientas: Git y Docker.
+
+### Contacto
+
+- Email: germansoto@protonmail.com
+
+---
+
+## 🇬🇧 English
+
+### About Me
+
+Cybersecurity researcher and developer focused on Python, Bash and automation tools.
+
+### Areas of Interest
+
+- **Offensive Security:** Security research and authorized penetration testing.
+- **Development:** Custom tools and automation.
+- **Infrastructure:** Home servers and Linux system administration.
+
+### Technologies
+
+- Languages: Python, Bash and Nim.
+- Systems: Debian Linux and Parrot OS.
+- Platforms: TryHackMe.
+- Tools: Git and Docker.
+
+### Contact
+
+- Email: germansoto@protonmail.com
+
+---
+
+## Technologies and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,mariadb,arduino" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x5070&show_icons=true&layout=compact" alt="Most used languages" />
+</p>
+
+## Licencia / License
+
+Este proyecto está publicado bajo la licencia **GNU General Public License v3.0 (GPL-3.0)**.
+
+Consulta el archivo [LICENSE](LICENSE) para leer el texto completo de la licencia.
+
+This project is distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+See the [LICENSE](LICENSE) file for the complete license text.
